@@ -2,7 +2,7 @@
 
 > Ship / Show / Ask es una estrategia de ramas que combina la idea de crear Pull Request con la habilidad de seguir publicando cambios rápidamente.
 
-![](images/Ship-Show-Ask.png)
+![](Ship-Show-Ask.png)
 
 El flujo de trabajo Ship / Show / Ask es un enfoque utilizado en el desarrollo de software para gestionar la entrega de código y la toma de decisiones en equipo. Este método se enfoca en tres posibles estados o acciones que un desarrollador puede tomar con su trabajo: enviar (ship), mostrar (show) o preguntar (ask). A continuación, se describe cada uno de estos estados y cómo se aplica en un flujo de trabajo típico.
 
